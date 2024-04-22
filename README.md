@@ -44,7 +44,7 @@ To start the development server, run:
 npm run dev
 ```
 
-This will start the Vite development server and open your default web browser to http://localhost:3000.
+This will start the Vite development server and open your default web browser to http://localhost:5174.
 
 ### Building for Production
 
