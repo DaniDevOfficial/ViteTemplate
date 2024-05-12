@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with a note advising users to change the package name:
-
----
-
 # Vite Template
 
 This is a template project set up with Vite for rapid development using React, Chakra UI, and React Router DOM.
